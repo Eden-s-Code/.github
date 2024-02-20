@@ -26,8 +26,8 @@ Nos apasiona mantenernos al día con las últimas tecnologías y tendencias. Alg
 - Node.js/Express <img src="nodejs.png" width="50" height="45" align=center alt="node">
 - MongoDb <img src="mongodb.png" width="40" height="30" align=center alt="mongodb">
 - Postresql <img src="postgresql.png" width="25" height="25" align=center alt="postgresql">
-- Mysql <img src="mysql.png" width="30" height="30" align=center alt="mysql">
-- Git/GitHub <img src="git.png" width="50" height="30" align=center alt="git">
+- Mysql <img src="mysql_2.png" width="30" height="30" align=center alt="mysql">
+- Git/GitHub <img src="git_2.png" width="50" height="30" align=center alt="git">
 
 ## Colabora con nosotros 😎💲
 
