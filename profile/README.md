@@ -1,7 +1,3 @@
-<head>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
-</head>
-
 # Bienvenido a Eden's Code
 
 ¡Donde la creatividad se encuentra con la tecnología para construir experiencias web excepcionales!
