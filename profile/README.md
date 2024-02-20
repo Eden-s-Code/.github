@@ -37,8 +37,8 @@ Estamos siempre en busca de mentes creativas y apasionadas por la tecnología. S
 
 ¿Listo para llevar tu presencia en línea al siguiente nivel? ¡Contáctanos y descubre cómo podemos hacerlo juntos!
 
-- Sitio web: https://www.edenscode.com
-- Correo electrónico: contacto@edenscode.com
+- Sitio web 🌐: https://www.edenscode.com
+- Correo electrónico 📫: contacto@edenscode.com
 - ¡Síguenos en [GitHub] https://github.com/Eden-s-Code para estar al tanto de nuestros proyectos!
 
 ¡Gracias por elegir Eden's Code para tus necesidades de desarrollo web! Esperamos colaborar contigo en la creación de experiencias digitales sorprendentes.
