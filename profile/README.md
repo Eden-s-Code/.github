@@ -15,7 +15,7 @@ En Eden's Code, nos especializamos en:
 - Aplicaciones web personalizadas para satisfacer tus necesidades específicas.
 - Optimización de rendimiento para garantizar experiencias rápidas y eficientes.
 
-## Tecnologías que amamos
+## Tecnologías que amamos😍
 
 Nos apasiona mantenernos al día con las últimas tecnologías y tendencias. Algunas de las herramientas y tecnologías que amamos y utilizamos incluyen:
 
@@ -38,6 +38,6 @@ Estamos siempre en busca de mentes creativas y apasionadas por la tecnología. S
 
 - Sitio web: https://www.edenscode.com
 - Correo electrónico: contacto@edenscode.com
-- ¡Síguenos en (https://github.com/Eden-s-Code) para estar al tanto de nuestros proyectos!
+- ¡Síguenos en https://github.com/Eden-s-Code para estar al tanto de nuestros proyectos!
 
 ¡Gracias por elegir Eden's Code para tus necesidades de desarrollo web! Esperamos colaborar contigo en la creación de experiencias digitales sorprendentes.
