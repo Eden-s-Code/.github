@@ -21,7 +21,7 @@ Nos apasiona mantenernos al día con las últimas tecnologías y tendencias. Alg
 
 - HTML5 <img src="html_1.png" width="30" height="30" align=center alt="HTML5">
 
-- CSS3/Sass <img src="css_1.png" width="30" height="30" align=center alt="CSS3">
+- CSS3/Sass <img src="profile/css_1.png" width="30" height="30" align=center alt="CSS3">
 - JavaScript/React  <img src="js_1.png" width="30" height="30" align=center alt="JS">  <img src="react.png" width="30" height="30" align=center alt="react">
 - Node.js/Express <img src="nodejs.png" width="50" height="45" align=center alt="node">
 - MongoDb <img src="mongodb.png" width="40" height="30" align=center alt="mongodb">
