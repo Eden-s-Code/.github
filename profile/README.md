@@ -27,7 +27,7 @@ Nos apasiona mantenernos al día con las últimas tecnologías y tendencias. Alg
 - MongoDb <img src="mongodb.png" width="40" height="30" align=center alt="mongodb">
 - Postresql <img src="postgresql.png" width="25" height="25" align=center alt="postgresql">
 - Mysql <img src="sql.png" width="30" height="30" align=center alt="mysql">
-- Git/GitHub <img src="github.png" width="50" height="30" align=center alt="git">
+- Git/GitHub <img src="github.png" width="30" height="30" align=center alt="git">
 
 ## Colabora con nosotros 😎💲
 
