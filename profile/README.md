@@ -23,8 +23,8 @@ Nos apasiona mantenernos al día con las últimas tecnologías y tendencias. Alg
 
 - CSS3/Sass <img src="css_1.png" width="30" height="30" align=center alt="CSS3">
 - JavaScript/React  <img src="js_1.png" width="30" height="30" align=center alt="JS">
-- Node.js/Express <img src="nodejs.png" width="50" height="40" align=center alt="node">
-- MongoDb <img src="mongodb.png" width="30" height="30" align=center alt="mongodb">
+- Node.js/Express <img src="nodejs.png" width="50" height="45" align=center alt="node">
+- MongoDb <img src="mongodb.png" width="40" height="30" align=center alt="mongodb">
 - Postresql <img src="postgresql.png" width="25" height="25" align=center alt="postgresql">
 - Mysql <img src="mysql.png" width="30" height="30" align=center alt="mysql">
 - Git/GitHub <img src="git.png" width="50" height="30" align=center alt="git">
