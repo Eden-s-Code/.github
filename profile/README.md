@@ -19,7 +19,7 @@ En Eden's Code, nos especializamos en:
 
 Nos apasiona mantenernos al día con las últimas tecnologías y tendencias. Algunas de las herramientas y tecnologías que amamos y utilizamos incluyen:
 
-- HTML5 <i class="fa-brands fa-html5" style="color: #ff7300;"></i>
+- HTML5 :fab fa-html5:
 - CSS3/Sass
 - JavaScript/React
 - Node.js/Express
