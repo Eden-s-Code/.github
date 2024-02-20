@@ -6,7 +6,7 @@
 
 Somos una innovadora empresa de desarrollo web comprometida con la excelencia en la creación de soluciones digitales impactantes. Nuestro equipo de expertos está impulsado por la pasión por el diseño, la codificación impecable y la entrega de proyectos que superan las expectativas.
 
-## ¿Qué hacemos?
+## ¿Qué hacemos? 🤑
 
 En Eden's Code, nos especializamos en:
 
@@ -29,11 +29,11 @@ Nos apasiona mantenernos al día con las últimas tecnologías y tendencias. Alg
 - Mysql
 - Git/GitHub
 
-## Colabora con nosotros
+## Colabora con nosotros 😎💲
 
 Estamos siempre en busca de mentes creativas y apasionadas por la tecnología. Si compartes nuestra pasión por el desarrollo web y el diseño excepcional, ¡considera unirte a nuestro equipo!
 
-## Contacto
+## Contacto 🧑‍💻
 
 ¿Listo para llevar tu presencia en línea al siguiente nivel? ¡Contáctanos y descubre cómo podemos hacerlo juntos!
 
