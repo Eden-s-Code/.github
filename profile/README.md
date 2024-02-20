@@ -6,7 +6,7 @@
 
 Somos una innovadora empresa de desarrollo web comprometida con la excelencia en la creación de soluciones digitales impactantes. Nuestro equipo de expertos está impulsado por la pasión por el diseño, la codificación impecable y la entrega de proyectos que superan las expectativas.
 
-## ¿Qué hacemos? 🤑
+## ¿Qué hacemos? 💻
 
 En Eden's Code, nos especializamos en:
 
@@ -21,7 +21,7 @@ Nos apasiona mantenernos al día con las últimas tecnologías y tendencias. Alg
 
 - HTML5 <img src="html.png" width="30" height="30" align=center alt="HTML5">
 
-- CSS3/Sass ![Logo](https://fontawesome.com/icons/shield?f=classic&s=solid)
+- CSS3/Sass ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 - JavaScript/React
 - Node.js/Express
 - MongoDb
