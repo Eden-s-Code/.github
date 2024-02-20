@@ -21,7 +21,7 @@ Nos apasiona mantenernos al día con las últimas tecnologías y tendencias. Alg
 
 - HTML5 <img src="html.png" width="30" height="30" align=center alt="HTML5">
 
-- CSS3/Sass
+- CSS3/Sass ![https://fontawesome.com/icons/shield?f=classic&s=solid]
 - JavaScript/React
 - Node.js/Express
 - MongoDb
