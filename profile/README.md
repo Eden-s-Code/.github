@@ -1,4 +1,7 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+</head>
+
 # Bienvenido a Eden's Code
 
 ¡Donde la creatividad se encuentra con la tecnología para construir experiencias web excepcionales!
@@ -20,7 +23,7 @@ En Eden's Code, nos especializamos en:
 
 Nos apasiona mantenernos al día con las últimas tecnologías y tendencias. Algunas de las herramientas y tecnologías que amamos y utilizamos incluyen:
 
-- HTML5 <i class="fab fa-html5"></i>
+- HTML5 <i class="fab fa-html5"></i> HTML5
 - CSS3/Sass
 - JavaScript/React
 - Node.js/Express
