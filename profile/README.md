@@ -19,15 +19,15 @@ En Eden's Code, nos especializamos en:
 
 Nos apasiona mantenernos al día con las últimas tecnologías y tendencias. Algunas de las herramientas y tecnologías que amamos y utilizamos incluyen:
 
-- HTML5 <img src="html_1.png" width="30" height="30" align=center alt="HTML5">
+- HTML5 <img src="profile/html_1.png" width="30" height="30" align=center alt="HTML5">
 
 - CSS3/Sass <img src="profile/css_1.png" width="30" height="30" align=center alt="CSS3">
-- JavaScript/React  <img src="js_1.png" width="30" height="30" align=center alt="JS">  <img src="react.png" width="30" height="30" align=center alt="react">
-- Node.js/Express <img src="nodejs.png" width="50" height="45" align=center alt="node">
-- MongoDb <img src="mongodb.png" width="40" height="30" align=center alt="mongodb">
-- Postresql <img src="postgresql.png" width="25" height="25" align=center alt="postgresql">
-- Mysql <img src="sql.png" width="30" height="30" align=center alt="mysql">
-- Git/GitHub <img src="github.png" width="30" height="30" align=center alt="git">
+- JavaScript/React  <img src="profile/js_1.png" width="30" height="30" align=center alt="JS">  <img src="react.png" width="30" height="30" align=center alt="react">
+- Node.js/Express <img src="profile/nodejs.png" width="50" height="45" align=center alt="node">
+- MongoDb <img src="profile/mongodb.png" width="40" height="30" align=center alt="mongodb">
+- Postresql <img src="profile/postgresql.png" width="25" height="25" align=center alt="postgresql">
+- Mysql <img src="profile/sql.png" width="30" height="30" align=center alt="mysql">
+- Git/GitHub <img src="profile/github.png" width="30" height="30" align=center alt="git">
 
 ## Colabora con nosotros 😎💲
 
