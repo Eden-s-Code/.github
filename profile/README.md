@@ -1,4 +1,4 @@
-# Bienvenido a Eden's Code <img src="code.png" width="40" height="40" align=center alt="Code">
+# Bienvenido a Eden's Code <img src="code.png" width="50" height="50" align=center alt="Code">
 
 ¡Donde la creatividad se encuentra con la tecnología para construir experiencias web excepcionales!
 
