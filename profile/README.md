@@ -1,4 +1,4 @@
-# Bienvenido a Eden's Code🌐
+# Bienvenido a Eden's Code <img src="code.png" width="30" height="30" align=center alt="Code">
 
 ¡Donde la creatividad se encuentra con la tecnología para construir experiencias web excepcionales!
 
