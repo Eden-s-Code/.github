@@ -19,9 +19,9 @@ En Eden's Code, nos especializamos en:
 
 Nos apasiona mantenernos al día con las últimas tecnologías y tendencias. Algunas de las herramientas y tecnologías que amamos y utilizamos incluyen:
 
-- HTML5 <div style="text-align: center;">
-            <img src="html.png" width="20" height="20" alt="HTML5">
-        </div>
+- HTML5 <p align="center">
+  <img src="html.png" width="20" height="20" alt="HTML5">
+</p>
 - CSS3/Sass
 - JavaScript/React
 - Node.js/Express
