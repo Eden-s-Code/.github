@@ -1,8 +1,8 @@
-# Bienvenido a Eden's Code
+# Bienvenido a Eden's Code🌐
 
 ¡Donde la creatividad se encuentra con la tecnología para construir experiencias web excepcionales!
 
-## Acerca de nosotros
+## Acerca de nosotros🤔
 
 Somos una innovadora empresa de desarrollo web comprometida con la excelencia en la creación de soluciones digitales impactantes. Nuestro equipo de expertos está impulsado por la pasión por el diseño, la codificación impecable y la entrega de proyectos que superan las expectativas.
 
@@ -21,7 +21,7 @@ Nos apasiona mantenernos al día con las últimas tecnologías y tendencias. Alg
 
 - HTML5 <img src="html.png" width="30" height="30" align=center alt="HTML5">
 
-- CSS3/Sass ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
+- CSS3/Sass ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
 - JavaScript/React
 - Node.js/Express
 - MongoDb
