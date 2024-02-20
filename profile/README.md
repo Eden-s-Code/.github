@@ -19,10 +19,10 @@ En Eden's Code, nos especializamos en:
 
 Nos apasiona mantenernos al día con las últimas tecnologías y tendencias. Algunas de las herramientas y tecnologías que amamos y utilizamos incluyen:
 
-- HTML5 <img src="html.png" width="30" height="30" align=center alt="HTML5">
+- HTML5 <img src="html_1.png" width="30" height="30" align=center alt="HTML5">
 
-- CSS3/Sass ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
-- JavaScript/React
+- CSS3/Sass <img src="css_1.png" width="30" height="30" align=center alt="CSS3">
+- JavaScript/React  <img src="js_1.png" width="30" height="30" align=center alt="JS">
 - Node.js/Express
 - MongoDb
 - Postresql
